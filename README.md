@@ -93,11 +93,4 @@ Aplicación de escritorio en C# para un colegio:
 
 ---
 
-## 🌎 Idiomas
-
-* 🇪🇸 Español: Nativo
-* 🇬🇧 Inglés: Nivel B1
-
----
-
 ⭐ *Siempre abierto a nuevos desafíos y oportunidades para seguir creciendo como desarrollador.*
