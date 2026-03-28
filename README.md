@@ -14,9 +14,6 @@
 * 🧠 Disfruto resolver problemas desde distintos enfoques
 * 🤝 Valoro la comunicación con el cliente para entender sus necesidades reales
 * 📚 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades
-
-💪 Fuera del desarrollo, me gusta el **gym** y seguir aprendiendo constantemente nuevas cosas.
-
 ---
 
 ## 🎯 Áreas de Interés
